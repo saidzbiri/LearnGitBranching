@@ -1,1 +1,1 @@
-Git cmd
+Git command line
